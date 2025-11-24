@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{FE29CBB6-AB1A-4845-8B22-823D6ECF128D}|ggMap\\ggMap.csproj|solutionrelative:ggmap\\quan8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE29CBB6-AB1A-4845-8B22-823D6ECF128D}|ggMap\\ggMap.csproj|d:\\ggmap\\ggmap\\ggmap\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FE29CBB6-AB1A-4845-8B22-823D6ECF128D}|ggMap\\ggMap.csproj|D:\\ggmap\\ggMap\\ggmap\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FE29CBB6-AB1A-4845-8B22-823D6ECF128D}|ggMap\\ggMap.csproj|solutionrelative:ggmap\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -42,8 +42,7 @@
               "ToolTip": "D:\\ggmap\\ggMap\\ggMap\\Form1.cs [Design]",
               "RelativeToolTip": "ggMap\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T07:30:59.499Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-11-24T07:30:59.499Z"
             }
           ]
         }
